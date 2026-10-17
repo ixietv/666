@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/xaiwenjie/桌面/HelloCMake/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/HelloCMake.dir/main.cpp.o -c /home/xaiwenjie/桌面/HelloCMake/main.cpp",
+  "file": "/home/xaiwenjie/桌面/HelloCMake/main.cpp",
+  "output": "CMakeFiles/HelloCMake.dir/main.cpp.o"
+}
+]

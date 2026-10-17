@@ -1,0 +1,3 @@
+/home/xaiwenjie/桌面/HelloCMake/build/CMakeFiles/HelloCMake.dir
+/home/xaiwenjie/桌面/HelloCMake/build/CMakeFiles/edit_cache.dir
+/home/xaiwenjie/桌面/HelloCMake/build/CMakeFiles/rebuild_cache.dir
